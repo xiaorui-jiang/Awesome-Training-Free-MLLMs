@@ -8,10 +8,10 @@
 
 | Year | Title                                    | Venue |                    Paper                     | Code |
 | ---- | ---------------------------------------- | :---: | :------------------------------------------: | :--: |
-| 2025 | **See what you are told: Visual attention sink in large multimodal models** | ICLR'25 | [Link](https://arxiv.org/pdf/2503.03321?) |  [Code](https://github.com/seilk/VisAttnSink)  |
-| 2025 |  **Mllms know where to look: Training-free perception of small visual details with multimodal llms**            |   ICLR'25    |   [Link](https://arxiv.org/pdf/2502.17422)       |  [Code](https://github.com/saccharomycetes/mllms_know)    |
+| 2025 | **See What You Are Told: Visual Attention Sink in Large Multimodal Models** | ICLR'25 | [Link](https://arxiv.org/pdf/2503.03321?) |  [Code](https://github.com/seilk/VisAttnSink)  |
+| 2025 |  **MLLMs Know Where to Look: Training-Free Perception of Small Visual Details With Multimodal LLMs**            |   ICLR'25    |   [Link](https://arxiv.org/pdf/2502.17422)       |  [Code](https://github.com/saccharomycetes/mllms_know)    |
 | 2025 | **Stop Looking for “Important Tokens” in Multimodal Language Models: Duplication Matters More**| Arxiv | [Link](https://arxiv.org/pdf/2502.11494?) | [Code](https://github.com/ZichenWen1/DART)|
-
+| 2025 | **Not All Tokens and Heads Are Equally Important: Dual-Level Attention Intervention for Hallucination Mitigation**| Arxiv | [Link](https://arxiv.org/pdf/2506.12609) | -|
 
 
 
