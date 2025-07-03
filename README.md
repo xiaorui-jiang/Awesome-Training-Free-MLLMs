@@ -12,6 +12,6 @@
 | 2025 |  **MLLMs Know Where to Look: Training-Free Perception of Small Visual Details With Multimodal LLMs**            |   ICLR'25    |   [Link](https://arxiv.org/pdf/2502.17422)       |  [Code](https://github.com/saccharomycetes/mllms_know)    |
 | 2025 | **Stop Looking for “Important Tokens” in Multimodal Language Models: Duplication Matters More**| Arxiv | [Link](https://arxiv.org/pdf/2502.11494?) | [Code](https://github.com/ZichenWen1/DART)|
 | 2025 | **Not All Tokens and Heads Are Equally Important: Dual-Level Attention Intervention for Hallucination Mitigation**| Arxiv | [Link](https://arxiv.org/pdf/2506.12609) | -|
-
+| 2025 | **SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**| Arxiv | [Link](https://arxiv.org/pdf/2506.05344?) | -|
 
 
